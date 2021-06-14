@@ -1,1 +1,3 @@
 # hello-world
+
+hi, I'm new on Github I'm exited to explore this new world and challenges and my learning journey continues...
